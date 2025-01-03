@@ -1,0 +1,47 @@
+filepath, label
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/63.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/77.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/88.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/89.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/76.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/62.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/74.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/60.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/49.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Bank Statement/61.jpg,Bank Statement
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/63.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/77.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/88.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/89.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/76.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/62.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/74.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/60.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/48.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Salary Slip/49.jpg,Salary Slip
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/63.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/77.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/88.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/89.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/76.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/62.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/74.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/60.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/48.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/49.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/Check/61.jpg,Check
+/Users/luckysrivastava/Workspace/data/DocumentImages/ITR_Form 16/14.jpg,ITR_Form 16
+/Users/luckysrivastava/Workspace/data/DocumentImages/ITR_Form 16/28.jpg,ITR_Form 16
+/Users/luckysrivastava/Workspace/data/DocumentImages/ITR_Form 16/101.jpg,ITR_Form 16
+/Users/luckysrivastava/Workspace/data/DocumentImages/ITR_Form 16/100.jpg,ITR_Form 16
+/Users/luckysrivastava/Workspace/data/DocumentImages/ITR_Form 16/29.jpg,ITR_Form 16
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/63.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/77.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/88.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/89.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/76.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/62.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/74.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/60.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/48.jpg,Utility
+/Users/luckysrivastava/Workspace/data/DocumentImages/Utility/49.jpg,Utility
